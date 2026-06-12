@@ -23,7 +23,7 @@ Claude Code skill: оркестратор дизайн-работы для UI-з
 ## Установка
 
 ```bash
-git clone https://github.com/<user>/design-engineering ~/.claude/skills/design-engineering
+git clone https://github.com/TakeMyEnerGy13/design-engineering ~/.claude/skills/design-engineering
 ```
 
 Claude Code подхватит скилл автоматически. `design-core.md` и `anti-slop.md` — портативный markdown: их можно скармливать и другим агентам (Codex и т.п.) явной командой.
